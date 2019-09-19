@@ -1,0 +1,20 @@
+PODS:
+  - SwiftLint (0.33.1)
+  - TLCustomMask (2.0.0)
+
+DEPENDENCIES:
+  - SwiftLint (= 0.33.1)
+  - TLCustomMask (= 2.0.0)
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - SwiftLint
+    - TLCustomMask
+
+SPEC CHECKSUMS:
+  SwiftLint: 9fc1143bbacec37f94994a7d0d2a85b2154b6294
+  TLCustomMask: 32bcd873851167c2d2a3726b048766b737873710
+
+PODFILE CHECKSUM: 10206f8501ff1cc5f587da1365f0c7ae546c3519
+
+COCOAPODS: 1.7.5
